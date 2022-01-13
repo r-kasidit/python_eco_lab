@@ -8,7 +8,7 @@ coverY: 0
 **Good to know:** ไอเดียการเขียนหนังสือเล่มนี้ขึ้นมาเกิดขึ้นเมื่อผู้เขียนได้มีโอกาสคุมเเลปวิชานิเวศวิทยาเเละสังเกตว่า นิสิตนักศึกษาบางคนพยายามใช้ python เพื่อวิเคราะห์ผลการศึกษา เเต่หลาย ๆ ส่วนยังเขียนไม่สมบูรณ์ ผู้เขียนจึงพยายามรวบรวมเเละเขียนให้อยู่ในรูปเเบบที่ง่าย เเละ
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+ซึ่งเนื้อหาในเล่มนี้จะไม่ครอบคลุมทุกส่วนของวิชา eco lab เเต่เป็นเน้นเพียงส่วนของการวิเคราะห์ผล ซึ่งใช้ computer เป็นส่วนใหญ่ ไม่ครอบคลุมด้านเทคนิคการเก็บตัวอย่างหรือการ identify species ของสิ่งมีชีวิต
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
