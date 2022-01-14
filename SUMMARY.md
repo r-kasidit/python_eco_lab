@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ใช้ python เพื่อวิเคราะห์ในรายวิชา ecology lab](README.md)
+* [Python และ R ในการวิเคราะห์ข้อมูลวิชา ecology laboratory](README.md)
 * [การวัด](measurements.md)
 * [การตั้งสมมุติฐานทางสถิติและการทดสอบ](simple\_stat.md)
 * [ประชากร](population.md)

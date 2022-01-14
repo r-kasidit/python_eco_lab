@@ -1,11 +1,14 @@
 ---
 coverY: 0
+description: กษิดิศ ริสอน 14-01-2022
 ---
 
-# ใช้ python เพื่อวิเคราะห์ในรายวิชา ecology lab
+# Python และ R ในการวิเคราะห์ข้อมูลวิชา ecology laboratory
+
+
 
 {% hint style="info" %}
-**Good to know:** ไอเดียการเขียนหนังสือเล่มนี้ขึ้นมาเกิดขึ้นเมื่อผู้เขียนได้มีโอกาสคุมเเลปวิชานิเวศวิทยาเเละสังเกตว่า นิสิตนักศึกษาบางคนพยายามใช้ python เพื่อวิเคราะห์ผลการศึกษา เเต่หลาย ๆ ส่วนยังเขียนไม่สมบูรณ์ ผู้เขียนจึงพยายามรวบรวมเเละเขียนให้อยู่ในรูปเเบบที่ง่าย เเละ
+**Good to know:** ไอเดียการเขียนหนังสือเล่มนี้ขึ้นมาเกิดขึ้นเมื่อผู้เขียนได้มีโอกาสคุมเเลปวิชานิเวศวิทยาเเละสังเกตว่า นิสิตนักศึกษาบางคนพยายามใช้ python เพื่อวิเคราะห์ผลการศึกษา เเต่หลาย ๆ ส่วนยังเขียนไม่สมบูรณ์ ผู้เขียนจึงพยายามรวบรวมเเละเขียนให้อยู่ในรูปเเบบที่ง่าย ให้ผู้เรียนใช้เป็นเเนวทางการวิเคราะห์ข้อมูลด้านนิเวศวิทยากับ \*ภาษาคอมพิวเตอร์\* ที่เป็นที่นิยมในงานวิเคราะห์ทางสถิติ เช่น R, Python เพื่อให้เกิดความประทับใจ เเละคุ้นชินเพราะข้อมูลทางนิเวศวิทยานั้นมีปริมาณมากเเละมีความจำเพาะบางอย่างอยู่ ดังนั้นเพื่อเป็นเเนวทาง เเละเเบบฝึกหัดสำหรับผู้ทที่เริ่มต้นเรียนการวิเคราะห์ข้อมูลด้วยภาษาคอมพิวเตอร์เหล่านี้ได้ลองใช้กับข้อมูลนิเวศวิทยานี้
 {% endhint %}
 
 ซึ่งเนื้อหาในเล่มนี้จะไม่ครอบคลุมทุกส่วนของวิชา eco lab เเต่เป็นเน้นเพียงส่วนของการวิเคราะห์ผล ซึ่งใช้ computer เป็นส่วนใหญ่ ไม่ครอบคลุมด้านเทคนิคการเก็บตัวอย่างหรือการ identify species ของสิ่งมีชีวิต
@@ -34,16 +37,16 @@ coverY: 0
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="simple_stat.md" %}
+[simple\_stat.md](simple\_stat.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="population.md" %}
+[population.md](population.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="community.md" %}
+[community.md](community.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
